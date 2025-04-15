@@ -13,7 +13,7 @@ export default function Portfolio() {
       </section>
 
       <section>
-        <h2 className="text-4xl font-semibold mb-4">About Me</h2>
+        <h2 className="text-4xl font-semibold mb-4">About Me:</h2>
         <p>
           I’m a data-driven problem solver with a background in pharmaceutical market research and a growing skill set in data analytics, software development, and backend systems.
           After five years of helping clients uncover insights from healthcare data, I transitioned into a Master’s in Computer Science to deepen my technical expertise.
@@ -50,7 +50,7 @@ export default function Portfolio() {
       </section>
 
       <section>
-        <h2 className="text-2xl font-semibold mb-4" style={{ marginTop: '4rem'}}> Skills </h2>
+        <h2 className="text-2xl font-semibold mb-4" style={{ marginTop: '4rem'}}> Skills: </h2>
         <ul className="list-disc list-inside space-y-1">
           <li>Python, SQL, Java, FastAPI, SQLite, MySQL</li>
           <li>Tableau, Power BI, Git, Regex, REST APIs</li>
@@ -59,7 +59,7 @@ export default function Portfolio() {
       </section>
 
       <section>
-        <h2 className="text-2xl font-semibold mb-4" style={{ marginTop: '4rem'}}>Contact</h2>
+        <h2 className="text-2xl font-semibold mb-4" style={{ marginTop: '4rem'}}>Contact:</h2>
         <p>Email: <a className="text-blue-600" href="mailto:nrvsirjue@gmail.com">nrvsirjue@gmail.com</a></p>
         <p>LinkedIn: <a className="text-blue-600" href="https://www.linkedin.com/in/nailah-sirjue/" target="_blank">linkedin.com/in/nailah-sirjue</a></p>
       </section>
