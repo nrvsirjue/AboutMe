@@ -9,7 +9,7 @@ export default function Portfolio() {
       />
         <h1 className="text-1xl font-bold mt-4" style={{ textAlign: 'center' }}>Nailah Sirjue</h1>
         <p className="text-lg mt-2" style={{ textAlign: 'center' }}>
-          Data Enthusiast | Future Business Analyst | M.S. Computer Science </p>
+          Data Enthusiast | Future Data Scientist| M.S. Computer Science </p>
       </section>
 
       <section>
